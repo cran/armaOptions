@@ -1,0 +1,16 @@
+e78daf073ce7cc43b0b7c8f8241f6475 *DESCRIPTION
+b0185bfe79ebd70b0bbdda0c392b5fef *NAMESPACE
+151c988a28413410be38217447e624ed *NEWS.md
+2a91f86d39d806d8f59d18e1b5acd291 *R/CallOptionsOverStrikePrices.R
+ae9a5e894596f86a63829a06885b20fe *R/CallOptionsOverTime.R
+3e9c41dd15fc4f9070d4701d0876971d *R/PutOptionsOverStrikePrices.R
+db010c28baa1fadb4e74ea3006d9723b *R/PutOptionsOverTime.R
+ef6b2f8b2497eac328abfcc4205a5d40 *R/europeanCallOptionValue.R
+15384d57af1c9fabc589bd6b08e2c725 *R/europeanPutOptionValue.R
+5ff405913684cba52c6518634e5fa34b *README.md
+eaca4739106ea7101801b43c84bad6e4 *man/CallOptionsOverStrikePrices.Rd
+9c91ccfa1b933e157ddfb3065773bf0c *man/CallOptionsOverTime.Rd
+744000cd14cbca407e1fcfe1c3d1b689 *man/PutOptionsOverStrikePrices.Rd
+067e55c75cef506ac34f96d9b51cbbf1 *man/PutOptionsOverTime.Rd
+3302c7a8f0615100f773dabca167b996 *man/europeanCallOptionValue.Rd
+5eea666d878b5a72bc19331989257be6 *man/europeanPutOptionValue.Rd
